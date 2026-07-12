@@ -14,8 +14,8 @@ Machine learning-powered web application to predict loan applicant creditworthin
 
 ## Team
 - Obulapuram Rajyalakshmi
-- Palareddy Sindhu
-- Pasupathi Sahithi
+- Sindhu Sindhu
+- Sahithi Pasupathi
 - Madarapu Meghana
 - Buduru Raghuveera Reddy
 
